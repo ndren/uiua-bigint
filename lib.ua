@@ -36,7 +36,7 @@ Div ← ⌝Mul
 
 Pow ← ⨬(New 1|⋅New|/Mul↯) ⊸⨂0_1 °[]⊸△
 
-# Mod ← ⊙◌ModDiv
+Mod ← ⊙◌ModDiv
 
 Gcd ← ◌⍢⤚Mod(Ne0)
 
