@@ -34,7 +34,7 @@ ModDiv ← (
 Mul ← ⌅(Fix /+⬚0≡⌝↘°⊏⊞× ∩New|⋅∘ModDiv)
 Div ← ⌝Mul
 
-Pow ← ⨬(New 1|⋅New|/Mul↯) ⊸⨂0_1 °[]⊸△
+Pow ← ⨬(New 1|⋅New|/Mul↯) ⊸⨂0_1 des,0 un1 by(/*shape)
 
 Mod ← ⊙◌ModDiv
 
