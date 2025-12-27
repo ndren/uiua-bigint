@@ -1,6 +1,7 @@
 # A Uiua BigInt Implementation
 
-BigInts are stored the same as `⊥₁₀`.
+`~ "gh: https://github.com/ndren/uiua-bigint" ~ New`
+`selfPow New 42`
 
 BigInts are stored with no leading zeros, and grow when an operation on them
 necessitates it.
