@@ -1,7 +1,8 @@
-Base ← 10
+N    ← 5
+Base ← ⁿ N 10
 New  ← ⍥(⊥Base)⊸(=₀⧻△)
 Call ← New
-Str  ← +@0⇌
+Str  ← ⌅(▽¬\×⊸=@0/⊂⇌⬚@0°⋕|⇌⋕↯∞_N⊂˜▽@0+N¯◿N⊸⧻)
 
 Fix ↚ (
   Overflow ← ⍢(
